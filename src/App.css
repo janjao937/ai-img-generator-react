@@ -4,6 +4,17 @@
   padding: 2rem;
   text-align: center;
 }
+.container{
+  display:flex;
+  justify-content:center;
+  flex-direction:column;
+}
+.input-container{
+  display:flex;
+  justify-content:center;
+  
+}
+
 
 .logo {
   height: 6em;
