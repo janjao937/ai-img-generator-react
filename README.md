@@ -1,3 +1,4 @@
 # React
 - Text input for Generate
-- Generate Image 
+    - Generate image 
+    - download image
